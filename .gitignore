@@ -1,7 +1,16 @@
 .venv
 frontend/node_modules
 .env
+# TODO: Pull request
+env.json
 # static
 .azure/
 __pycache__/
 .ipynb_checkpoints/
+
+# jostrm
+2_screenshots/
+3_branding/
+4_deploy/
+dont_checkin_*
+vf_logo_linear_grey_rgb.webp

@@ -1,6 +1,7 @@
 {
     "name": "Azure Developer CLI",
     "image": "mcr.microsoft.com/devcontainers/python:3.10",
+    "postCreateCommand": "pip install jupyter ipykernel",
     "features": {
         "ghcr.io/devcontainers/features/node:1": {
             "version": "16",
